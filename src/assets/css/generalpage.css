@@ -1,15 +1,6 @@
 body {
   background: #fff;
 }
-.b-header-inner {
-  padding-top: 10px;
-  padding-bottom: 10px;
-  position: relative;
-}
-.b-header-inner .e-logo {
-  max-width: 120px;
-  margin-left: 40px;
-}
 .btn-back {
   position: absolute;
   left: 10px;

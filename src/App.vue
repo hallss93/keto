@@ -2,9 +2,6 @@
   <router-view />
 </template>
 
-<style src="./assets/css/app.css">
-</style>
-
 <style src="./assets/css/landing.css">
 </style>
 <style>
